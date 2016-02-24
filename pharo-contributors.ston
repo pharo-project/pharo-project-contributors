@@ -1,0 +1,490 @@
+[
+	PharoContributor {
+		#name : 'Igor Stasenko',
+		#email : 'siguctua@gmail.com',
+		#website : 'http://computeradventures.wordpress.com',
+		#id : 'igorstasenko',
+		#description : 'Software engineer @ Inria, Lille',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Simon Denier',
+		#email : 'simon.denier@inria.fr',
+		#website : nil,
+		#id : 'simondenier',
+		#description : 'PhD, Computer Science Currently postdoc in the RMoD project-team, INRIA Lille-Nord Europe',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Juan Vuletich',
+		#email : 'juan@jvuletich.org',
+		#website : 'http://www.jvuletich.org',
+		#id : 'juanvuletich',
+		#description : 'Contributed the default anti-aliased fonts and the SimpleMorphic UI framework. Author of Cuis Smalltalk.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Jannik Laval',
+		#email : 'jannik.laval@gmail.com',
+		#website : 'http://www.jannik-laval.eu',
+		#id : 'janniklaval',
+		#description : 'Software Researcher at Mines Douai',
+		#image : 'http://www.jannik-laval.eu/assets/images/DSC02023%20-%20Version%202.jpg'
+	},
+	PharoContributor {
+		#name : 'Dale Henrichs',
+		#email : 'dale.henrichs@gemtalksystems.com',
+		#website : 'http://gemstonesoup.wordpress.com/',
+		#id : 'dalehenrichs',
+		#description : 'Principal Engineer at GemTalk Systems. Responsible for Seaside/GLASS. Contributes to Metacello, FileTree, Seaside.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Johan Brichau',
+		#email : 'johan@inceptive.be',
+		#website : nil,
+		#id : 'johanbrichau',
+		#description : 'Postdoctoral researcher at the Departement of Computer Science and Engineering of the Universit\u00E9 catholique de Louvain',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'G\u00F6ran Krampe',
+		#email : 'goran@krampe.se',
+		#website : nil,
+		#id : 'gorankrampe',
+		#description : 'Software developer and consultant working as freelancer in Stockholm. Smalltalker since many years, using Pharo for Seaside development.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'St\u00E9phane Ducasse',
+		#email : 'stephane.ducasse@inria.fr',
+		#website : 'http://stephane.ducasse.free.fr/',
+		#id : 'stephaneducasse',
+		#description : 'Research director at INRIA Lille leading the RMoD Team. Pharo board member and president of ESUG.',
+		#image : 'http://stephane.ducasse.free.fr/StefFingerOnNose128.jpg'
+	},
+	PharoContributor {
+		#name : 'Noury Bouraqadi',
+		#email : 'noury.bouraqadi@mines-douai.fr',
+		#website : 'http://car.mines-douai.fr/noury',
+		#id : 'nourybouraqadi',
+		#description : 'Associate professor at the Mines-Telecom Institute, Mines Douai, France.',
+		#image : 'http://car.mines-douai.fr/wp-content/uploads/2013/03/nouryWithSunGlasses-March2006.jpg'
+	},
+	PharoContributor {
+		#name : 'German Arduino',
+		#email : 'garduino@gmail.com',
+		#website : nil,
+		#id : 'germanarduino',
+		#description : 'Smalltalker & Entrepreneur, owner of Arduino software.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Fernando Olivero',
+		#email : 'fernando.olivero.mail@gmail.com',
+		#website : 'http://fernandoolivero.wordpress.com',
+		#id : 'fernandoolivero',
+		#description : 'Software Developer and Research Scientist',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Adrian Lienhard',
+		#email : 'adrian.lienhard@gmail.com',
+		#website : nil,
+		#id : 'adrianlienhard',
+		#description : 'Previous development leader at Cmsbox and co-founder of netstyle.ch.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Gary Chambers',
+		#email : nil,
+		#website : nil,
+		#id : 'garychambers',
+		#description : 'Software Engineer at Pinesoft. Smalltalk developer for over 20 years now!  Creator of Polymorph UI framework.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'John M McIntosh',
+		#email : 'johnmci@smalltalkconsulting.com',
+		#website : nil,
+		#id : 'johnmmcintosh',
+		#description : 'Founder of Corporate Smalltalk Consulting Ltd',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Damien Cassou',
+		#email : 'damien.cassou@gmail.com',
+		#website : 'http://damiencassou.seasidehosting.st',
+		#id : 'damiencassou',
+		#description : 'Associate professor in the RMoD Team, Lille, France.\rMember of the ESUG board.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Christoph Budzinski',
+		#email : nil,
+		#website : nil,
+		#id : 'christophbudzinski',
+		#description : 'Programming language enthusiast, one man software development army.  Use Pharo to further his goal of finding the holy grail of programming, combining fun with productivity.  Contribute to Pharocasts by talking to a microphone',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Tudor \"Doru\" Girba',
+		#email : 'tudor@tudorgirba.com',
+		#website : 'http://www.tudorgirba.com/',
+		#id : 'tudorgirba',
+		#description : 'Consultant through netstyle.ch, concerned with communicating and modeling information in general. Leads the work on the Moose analysis platform since 2003.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Mariano Martinez Peck',
+		#email : 'marianopeck@gmail.com',
+		#website : nil,
+		#id : 'marianomartinezpeck',
+		#description : 'IT Consultant and Software Engineer holding a PhD in Computer Science. Pharo enthusiastic, coauthor of Fuel and DBXTalk Suite. ',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Alexandre Bergel',
+		#email : 'alexandre.bergel@me.com',
+		#website : 'http://bergel.eu',
+		#id : 'alexandrebergel',
+		#description : 'Use Pharo for research in software engineering, quality and understanding at the University of Chile. Contribute to Roassal, Moose, Spy and many more.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Esteban Lorenzano',
+		#email : 'estebanlm@gmail.com',
+		#website : 'http://smallworks.eu',
+		#id : 'estebanlorenzano',
+		#description : 'Pharo core team. Contributor of several projects, including Kernel, DBXTalk, Voyage, Mars, etc. Also I work on the VM.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Lukas Renggli',
+		#email : 'renggli@gmail.com',
+		#website : 'http://www.lukas-renggli.ch',
+		#id : 'lukasrenggli',
+		#description : 'PhD studient in computer science at the SCG in Bern and consultant in software engineering and web application  Involved in Seaside, OmniBrowser, Refactoring Engine and many other tools.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Laurent Laffont',
+		#email : 'laurent.laffont@gmail.com',
+		#website : 'http://magaloma.blogspot.com/',
+		#id : 'laurentlaffont',
+		#description : 'Use Pharo for testing web application, and teaching software development. Contribute to Pharocasts, ProfStef, Autotest.',
+		#image : 'http://b.vimeocdn.com/ps/765/765789_300.jpg'
+	},
+	PharoContributor {
+		#name : 'Veronica Uquillas Gomez',
+		#email : nil,
+		#website : nil,
+		#id : 'veronicauquillasgomez',
+		#description : 'PhD candidate at the Software Languages Lab, Vrije Universiteit Brussel and at the University of Lille - RMOD team, as part of an inter-university doctorate',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Marcus Denker',
+		#email : 'marcus.denker@inria.fr',
+		#website : 'http://marcusdenker.de/',
+		#id : 'marcusdenker',
+		#description : 'Permanent researcher at INRIA Lille in RMoD Team. Pharo board member.',
+		#image : 'http://marcusdenker.de/marcus.jpg'
+	},
+	PharoContributor {
+		#name : 'Andy Kellens',
+		#email : 'akellens@vub.ac.be',
+		#website : nil,
+		#id : 'andykellens',
+		#description : 'Researcher working at the Software Languages Lab of the Vrije Universiteit Brussel',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Sean DeNigris',
+		#email : 'sean@clipperadams.com',
+		#website : 'http://seandenigris.com/',
+		#id : 'seandenigris',
+		#description : 'President and Lead Scientist at Clipper Adams, Inc.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Jorge Luis Ressia',
+		#email : 'ressia@iam.unibe.ch',
+		#website : 'http://www.jorgeressia.com',
+		#id : 'jorgeluisressia',
+		#description : 'PhD candidate at the Software Composition Group, University of Bern since 2008',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Luc Fabresse',
+		#email : 'luc.fabresse@gmail.com',
+		#website : 'http://luc.user.fr/',
+		#id : 'lucfabresse',
+		#description : 'Associate professor at Mines-Telecom Institute (Mines Douai). ESUG board member.',
+		#image : 'http://car.mines-douai.fr/luc/imgs/lucId.png'
+	},
+	PharoContributor {
+		#name : 'Oscar Nierstrasz',
+		#email : 'oscar@iam.unibe.ch',
+		#website : nil,
+		#id : 'oscarnierstrasz',
+		#description : 'Professor of Computer Science at the University of Bern. Founder of the Software Composition Group.  Using Pharo in research; developing Pharo by Example.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Hilaire Fernandes',
+		#email : 'hilaire.fernandes@gmail.com',
+		#website : nil,
+		#id : 'hilairefernandes',
+		#description : 'Teaches mathematics and ICT at Coudriers high school in Geneva.  Author of Dr. Geo II an interactive geometry framework.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Torsten Bergmann',
+		#email : 'astares@gmx.de',
+		#website : nil,
+		#id : 'torstenbergmann',
+		#description : 'Old Dude Who Knows Smalltalk',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Guillermo Polito',
+		#email : 'guillermopolito@gmail.com',
+		#website : 'playingwithobjects.wordpress.com',
+		#id : 'guillermopolito',
+		#description : 'Pharo core. Pharo bootstrap, DBXTalk, Keymappings, have traveled a bit to Mars, ocassional VMer. The wizard of Oz.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Jean-Baptiste Arnaud',
+		#email : nil,
+		#website : nil,
+		#id : 'jeanbaptistearnaud',
+		#description : 'PhD studient in computer science at INRIA Lille with RMod team.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Jeff Gray',
+		#email : nil,
+		#website : nil,
+		#id : 'jeffgray',
+		#description : 'Project Manager at the University of the Sunshine Coast, Queensland.  Pharo hobbyist',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Di\u00F3genes Alberto Moreira',
+		#email : nil,
+		#website : nil,
+		#id : 'diogenesalbertomoreira',
+		#description : 'CTO at Ilon S.A. and CTO at Sociadad Anonima para la Salud S.A. Contributor on DBXTalk and other projects.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Eliot Miranda',
+		#email : 'eliot.miranda@gmail.com',
+		#website : 'http://www.mirandabanda.org',
+		#id : 'eliotmiranda',
+		#description : 'I am the author of the Cog VM.  I invented method pragmas.  I co-defined VisualWorks\' parcels.  I currently work at Cadence in Newspeak & Squeak.',
+		#image : 'http://qconsf.com/sf2011/dl/photos/speakers/eliot_miranda.gif'
+	},
+	PharoContributor {
+		#name : 'Alain Plantec',
+		#email : 'alain.plantec@yahoo.com',
+		#website : nil,
+		#id : 'alainplantec',
+		#description : 'Use Pharo for developing research tools in the Model Driven Engineering field.  ESUG board member.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Norbert Hartl',
+		#email : 'norbert@hartl.name',
+		#website : nil,
+		#id : 'norberthartl',
+		#description : 'Working as freelancer in the area of Cologne.  Use Pharo for learning about language concepts, development of web applications and as frontend for gemstone development.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Miguel Cob\u00E1',
+		#email : nil,
+		#website : nil,
+		#id : 'miguelcoba',
+		#description : 'Seaside and Pharo user; maintainer of Magma Metacello configuration.  Development leader at Trantaria, a mexican company focused on building web applications using Seaside on Pharo.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Serge Stinckwich',
+		#email : 'serge.stinckwich@gmail.com',
+		#website : 'http://doesnotunderstand.org/',
+		#id : 'sergestinckwich',
+		#description : 'SciSmalltalk, Pharo par l\'Exemple,\nSmalltalk evangelist in Asia, SmalltalkParty. Works on Complex System,\nMulti-agents System, Robotics',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Johannes Rasche',
+		#email : nil,
+		#website : nil,
+		#id : 'johannesrasche',
+		#description : 'Now doing what may be worth the effort both for myself and whoever appreciates it. Developing a smart and handy gadget to maintain virtual, taggable pin boards communicating P2P http://myNeat.org with Pharo and later Seaside as well',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Sven Van Caekenberghe',
+		#email : 'sven@stfx.eu',
+		#website : 'http://stfx.eu',
+		#id : 'svenvancaekenberghe',
+		#description : 'Author & maintainer of Zinc HTTP Components, Zodiac TLS/SSL, NeoJSON, NeoCSV, STON, and others. Pharo Board member.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Camille Teruel',
+		#email : 'camille.teruel@gmail.com',
+		#website : nil,
+		#id : 'camilleteruel',
+		#description : 'PhD student at INRIA Lille in the RMoD Team',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Camillo Bruni',
+		#email : 'camillobruni@gmail.com',
+		#website : nil,
+		#id : 'camillobruni',
+		#description : 'Cosmopolitan Swiss Hacker, currently at INRIA',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Philippe Back',
+		#email : 'phil@highoctane.be',
+		#website : nil,
+		#id : 'philippeback',
+		#description : 'Belgian geek and solo consultant',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Cl\u00E9ment B\u00E9ra',
+		#email : 'bera.clement@gmail.com',
+		#website : 'http://clementbera.wordpress.com/',
+		#id : 'clementbera',
+		#description : 'Working at Inria on Pharo compiler, runtime environment and debugging tools',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Frank Shearar',
+		#email : 'frank.shearar@gmail.com',
+		#website : nil,
+		#id : 'frankshearar',
+		#description : 'Occasional Pharo hacker',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Hernan Wilkinson',
+		#email : 'hernan.wilkinson@10pines.com',
+		#website : nil,
+		#id : 'hernanwilkinson',
+		#description : 'Developer, consultant, OO teacher and partner at 10Pines. Uses Pharo as his main Smalltalk development and teaching platform. Member of FAST. Organizer of the Argentine Smalltalk conference.FF',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Stephan Eggermont',
+		#email : 'stephan@stack.nl',
+		#website : 'http://www.legacycode.nl',
+		#id : 'stephaneggermont',
+		#description : 'Independent developer, always interested in better ways to create software. PetitDelphi, StoryBoard, Deltawerken. Contributor of several projects, including Moose, Seaside, Pharo, Beach Parasol. Easily distracted by other projects',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Clara Allende',
+		#email : 'clari.allende@gmail.com',
+		#website : 'http://clariallende.wordpress.com',
+		#id : 'claraallende',
+		#description : 'student for GSoC 2013, using Pharo for teaching at National Technological University in Buenos Aires',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Mart\u00EDn Dias',
+		#email : 'tinchodias@gmail.com',
+		#website : nil,
+		#id : 'martindias',
+		#description : 'Master at UBA. PhD student at INRIA. Contributor in Fuel project and in Pharo in general.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Max Leske',
+		#email : 'maxleske@gmail.com',
+		#website : nil,
+		#id : 'maxleske',
+		#description : 'Master student at University of Bern, interested in software development and language design. Author and maintainer of FileSystem-Git, contributor to Fuel. Works for Netstyle.ch and Cmsbox where he uses Pharo for almost everything.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Thierry Goubier',
+		#email : 'thierry.goubier@cea.fr',
+		#website : 'http://www-list.cea.fr',
+		#id : 'thierrygoubier',
+		#description : 'Parsers, language design and analysis,\ralternative IDE, gitfiletree, SmaCC, code traces.',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Usman Bhatti',
+		#email : 'usman.bhatti@synectique.eu',
+		#website : 'http://chercheurs.lille.inria.fr/~bhatti/',
+		#id : 'usmanbhatti',
+		#description : 'Program analysis, visualizations, Moose, GetText',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Guillaume Larcheveque',
+		#email : 'guillaume.larcheveque@gmail.com',
+		#website : nil,
+		#id : 'guillaumelarcheveque',
+		#description : 'Program analysis, visualizations, Moose, Artefact, Parsers',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Pavel Krivanek',
+		#email : 'pavel.krivanek@gmail.com',
+		#website : 'http://www.pharo.cz/',
+		#id : 'pavelkrivanek',
+		#description : 'Contributor to Pharo remodularization effort.\rXUL-based native UI (Phobos), Periscope',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Benjamin Van Ryseghem',
+		#email : 'benjamin.vanryseghem.pharo@gmail.com',
+		#website : 'benjamin.vanryseghem.com',
+		#id : 'benjaminvanryseghem',
+		#description : 'Pharo core. Morphic maintainer. Spec author. Nautilus author. Responsible of quite some UIs',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Olivier Auverlot',
+		#email : 'olivier.auverlot@gmail.com',
+		#website : nil,
+		#id : 'olivierauverlot',
+		#description : 'Artefact,PROXimity',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Ben Coman',
+		#email : 'btc@openInWorld.com',
+		#website : 'http://blog.openInWorld.com',
+		#id : 'bencoman',
+		#description : 'Electrical Power Engineer. Utilised Roassal/Glamour/Magritte with Pharo/Moose for my Masters thesis to develop \"LEKtrek - a software development platform for electrical power applications\" (release pending)',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'James Foster',
+		#email : 'smalltalk@jgfoster.net',
+		#website : 'https://programminggems.wordpress.com/',
+		#id : 'jamesfoster',
+		#description : 'GemStone/S engineer and evangelist',
+		#image : nil
+	},
+	PharoContributor {
+		#name : 'Guido Chari',
+		#email : 'charig@gmail.com',
+		#website : 'http://lafhis.dc.uba.ar/~gchari',
+		#id : 'guidochari',
+		#description : 'Phd student on reflective compilers and VMs. Main projects: M4te and NativeBoost',
+		#image : 'http://lafhis.dc.uba.ar/sites/default/files/images/Guido_Chari.png'
+	}
+]
