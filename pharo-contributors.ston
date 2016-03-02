@@ -149,7 +149,7 @@
 		#website : 'http://bergel.eu',
 		#id : 'alexandrebergel',
 		#description : 'Use Pharo for research in software engineering, quality and understanding at the University of Chile. Contribute to Roassal, Moose, Spy and many more.',
-		#image : nil
+		#image : 'http://bergel.eu/pictures/web4.jpg'
 	},
 	PharoContributor {
 		#name : 'Esteban Lorenzano',
