@@ -486,7 +486,7 @@
 		#id : 'guidochari',
 		#description : 'Phd student on reflective compilers and VMs. Main projects: M4te and NativeBoost',
 		#image : 'http://lafhis.dc.uba.ar/sites/default/files/images/Guido_Chari.png'
-	}
+	},
 	PharoContributor {
 		#name : 'Cyril Ferlicot',
 		#email : 'cyril.ferlicot@gmail.com',
