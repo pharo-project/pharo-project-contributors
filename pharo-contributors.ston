@@ -494,5 +494,13 @@
 		#id : 'cyrilferlicot',
 		#description : 'Master student at University of Lille 1. Synectique\'s employee. Worked on Pillar, FastTable and Pharo in general. Currently working on program analysis',
 		#image : 'http://jecisc.alwaysdata.net/cv2/image/avatar.jpg'
+	},
+	PharoContributor {
+		#name : 'Peter Uhnak',
+		#email : 'i.uhnak@gmail.com',
+		#website : nil,
+		#id : 'peteruhnak',
+		#description : 'Student at Faculty of Information Technology (Czech Technical University in Prague). Currently working on DynaCASE under the umbrella of CCMi research center (Centre for Conceptual Modelling and Implementation).',
+		#image : nil
 	}
 ]
