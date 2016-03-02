@@ -487,4 +487,12 @@
 		#description : 'Phd student on reflective compilers and VMs. Main projects: M4te and NativeBoost',
 		#image : 'http://lafhis.dc.uba.ar/sites/default/files/images/Guido_Chari.png'
 	}
+	PharoContributor {
+		#name : 'Cyril Ferlicot',
+		#email : 'cyril.ferlicot@gmail.com',
+		#website : nil,
+		#id : 'cyrilferlicot',
+		#description : 'Master student at University of Lille 1. Synectique's employee. Worked on Pillar, FastTable and Pharo in general. Currently working on program analysis',
+		#image : 'http://jecisc.alwaysdata.net/cv2/image/avatar.jpg'
+	}
 ]
