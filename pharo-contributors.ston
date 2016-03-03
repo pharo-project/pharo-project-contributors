@@ -502,5 +502,13 @@
 		#id : 'peteruhnak',
 		#description : 'Student at Faculty of Information Technology (Czech Technical University in Prague). Currently working on DynaCASE under the umbrella of CCMi research center (Centre for Conceptual Modelling and Implementation).',
 		#image : nil
+	},
+	PharoContributor {
+		#name : 'Yuriy Tymchuk',
+		#email : 'tymchuk@inf.unibe.ch',
+		#website : 'http://yuriy.tymch.uk',
+		#id : 'uko',
+		#description : 'creator of QualityAssistant and live 3D modeling video. Hacker, Ph.D. canditate (UniBern), Pharo evangelist.',
+		#image : 'https://s.gravatar.com/avatar/04bf7d6620c0aa5dc2651a517baa457f?s=500'
 	}
 ]
