@@ -1,5 +1,13 @@
 [
 	PharoContributor {
+		#name : 'Johan Fabry',
+		#email : 'jfabry@dcc.uchile.cl',
+		#website : 'http://pleiad.cl/jfabry',
+		#id : 'johanfabry',
+		#description : 'Professor at Computer Science Department (DCC), University of Chile',
+		#image : 'http://pleiad.cl/_media/people/jfabry.png'
+	},
+	PharoContributor {
 		#name : 'Igor Stasenko',
 		#email : 'siguctua@gmail.com',
 		#website : 'http://computeradventures.wordpress.com',
